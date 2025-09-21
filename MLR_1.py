@@ -20,6 +20,7 @@ features = [
     'Value_Sm1', 'Value_Sm2', 'Value_Sm3', 'Value_Sm4'
 ]
 #this is to test changeS
+# Changes 2
 
 X = df[features]
 
